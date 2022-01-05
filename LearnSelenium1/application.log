@@ -1,0 +1,4 @@
+2021-12-30 16:20:16,849  INFO [main] Log4jdemo:16 - Launch Browser
+2021-12-30 16:20:19,261  INFO [main] Log4jdemo:21 - Opened application
+2021-12-30 16:20:19,278  INFO [main] Log4jdemo:28 - Title value is: Demo Web Shop. Login
+2021-12-30 16:20:19,280  INFO [main] Log4jdemo:35 - Correct Title
